@@ -1,0 +1,4 @@
+export const ADD_FORM_SUCCESS = "ADD_FORM_SUCCESS";
+export const ADD_FORM_FAILED = "ADD_FORM_FAILED";
+export const ADD_FORM_LOADING = "ADD_FORM_LOADING";
+export const ADD_FORM_RESET = "ADD_FORM_RESET";
